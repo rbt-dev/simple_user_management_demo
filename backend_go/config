@@ -1,0 +1,10 @@
+server:
+  port: 8081
+database:
+  driver: mysql
+  user: root
+  password: root
+  host: tcp(127.0.0.1:3306)
+  name: simple_user_management_demo
+jwt:
+  key: qTf5Csq2gqp5cnJWCcbGXRT8fgj7YrMZAbk4yQ9kzCLhloVHex9FMcddBTdp9ZG
